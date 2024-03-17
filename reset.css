@@ -1,0 +1,147 @@
+body{
+    background-color:darkslateblue;
+    margin: 0;
+    padding: 0;
+
+}
+.h1{
+    margin: 0 auto;
+    display: flex;
+    font-size: 40px;
+    color:black;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 10px;
+    /* margin-left: 350px;
+    margin-right: 350px; */
+    border: 10px solid black;
+    
+}
+.place3{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    /* margin-top: 100px; */
+    justify-content: center;
+}
+.place3 a{
+    color: aliceblue;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 20px;
+    /* position: absolute; */
+    padding-top: 70px;
+    justify-content: center;
+    /* margin-left: 30px; */
+    text-decoration: none;
+    
+}
+.place3 img{
+    margin-top: 20px;
+    border: 5px solid gold;
+}
+.place3 p{
+    color: aliceblue;
+    max-width: 1000px;
+    font-size: 20px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+.place2{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: center;
+}
+.place2 a{
+    color: aliceblue;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 20px;
+    /* position: absolute; */
+    margin-top: 70px;
+    justify-content: center;
+    /* margin-left: 30px; */
+    text-decoration: none;
+    
+   
+}
+.place2 img{
+    margin-top: 20px;
+    border: 5px solid gold;
+}
+.place2 p{
+    color: aliceblue;
+    max-width: 1000px;
+    font-size: 20px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+
+
+}
+.place1{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: center;
+}
+.place1 a{
+    color: aliceblue;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 20px;
+    /* position: absolute; */
+    margin-top: 70px;
+    justify-content: center;
+    /* margin-left: 30px; */
+    text-decoration: none;
+    
+    
+}
+.place1 img{
+    margin-top: 20px;
+    border: 5px solid gold;
+}
+.place1 p{
+    color: aliceblue;
+    max-width: 1000px;
+    font-size: 20px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+
+
+}
+.container{
+    background-color: black;
+    margin-left: 22%;
+    margin-right: 22%;
+    
+}
+.menu-elements:hover{
+    color:gold}
+.menu-elements{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    /* position: absolute; */
+    width: 100%;
+    text-align: center;
+    }
