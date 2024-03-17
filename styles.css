@@ -1,0 +1,138 @@
+body{
+    background-color: black;
+   
+}
+.header{
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+    width: 10%;
+    height: 6%;
+    margin-left: 20px;
+
+}
+.menu{
+    width: 70%;
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+    align-items: center;
+    font-size: 30px;
+    color:aliceblue;
+    margin-top: 40px;
+
+
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* margin: 0 auto; */
+    
+    
+
+}
+.text1{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+
+}
+.text1 p{
+    color: aliceblue;
+    max-width: 1000px;
+}
+
+
+
+.text2{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.text2 p{
+    color: aliceblue;
+    max-width: 700px;
+    max-height: 300px;
+}
+   
+
+.menu-elements{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.menu-elements:hover{
+    color:gold;
+}
+.container2{
+    background-color: black;
+    /* margin-left: 28%;
+    margin-right: 28%; */
+    margin-top: 0px;
+
+}
+.text1 h1{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    font-size: 100px;
+    color:aliceblue;
+    padding-bottom: 20px;
+}
+.text3{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.text3 p{
+    color: aliceblue;
+    max-width: 700px;
+    max-height: 400px;
+    margin-top: 0px;
+}
+.text3 img{
+    float:left;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.table{
+    border: 5px aliceblue;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* margin-left: 100px;
+    margin-top: 3%; */
+}
+.table h2{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    font-size: 60px;
+    color:aliceblue;
+    padding-bottom: 20px;
+    margin-top: 5%;
+    margin-left:50px;
+}
+.text4{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+.text4 p{
+    color: aliceblue;
+    max-width: 650px;
+    max-height: 400px;
+}
+
